@@ -13,4 +13,5 @@ For a more detailed description of Rosie's contents, please read the [introducto
 
 *Unless otherwise noted, future updates to Rosie will be placed in z_update.aiml. If you are already working with a version of Rosie, you should upload only this file to your bot. This will allow you to get the updates without overwriting files you may have done custom work on.*
 
+This updated includes learing of Rosie in basic conversation.
 
